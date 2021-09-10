@@ -4,9 +4,12 @@ This repository contains materials for my talk [Planning for Failure using Chaos
 
 # Reproducing the Demo
 
+You will need Docker Desktop installed and run this on a Linux system. One easy to do so might be create a fork of the repo and then use
+[GitHub workspaces](https://github.com/features/codespaces).
+
+
 ![Demo architecture](demo-arch.svg  "Demo System")
 
-You will need Docker Desktop installed. 
 
 Build images:
 
@@ -110,7 +113,7 @@ $ bash cleanup.sh
 
 ## Tools
 
-- [](https://wiki.linuxfoundation.org/networking/netem#emulating_wide_area_network_delays)
+- [Emulating wide area network delays](https://wiki.linuxfoundation.org/networking/netem#emulating_wide_area_network_delays)
 - [Tor is a great sysadmin tool](https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/)
 - [Use Traffic Control to Simulate Network Chaos in Bare metal & Kubernetes](https://songrgg.github.io/operation/use-traffic-control-simulate-network-chaos/)
-- [](https://netbeez.net/blog/how-to-use-the-linux-traffic-control/)
+- [Using Linux Traffic Control](https://netbeez.net/blog/how-to-use-the-linux-traffic-control/)
