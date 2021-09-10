@@ -2,10 +2,12 @@
 
 This repository contains materials for my talk [Planning for Failure using Chaos Engineering](https://2021.pycon.org.au/program/qbwrzj/).
 
-# Reproducing the Demo
+You can find the slides (PDF) [here](./slides.pdf).
 
-You will need Docker Desktop installed and run this on a Linux system. One easy to do so might be create a fork of the repo and then use
-[GitHub workspaces](https://github.com/features/codespaces).
+## Reproducing the Demo
+
+You will need Docker Desktop installed and run this on a Linux system. One easy to do so might be create a fork of the repo 
+and then use [GitHub workspaces](https://github.com/features/codespaces).
 
 
 ![Demo architecture](demo-arch.svg  "Demo System")
@@ -98,20 +100,20 @@ $ cd demo-system
 $ bash cleanup.sh
 
 ```
-# Resources
+## Resources
 
-## Books
+### Books
 
 - [Release It!]() - Chapter 17, "Chaos Engineering"
 - [The Chaos Engineering Book](https://www.verica.io/blog/the-chaos-engineering-book/)
 
-## Articles
+### Articles
 
 - [Principles of Chaos Engineering](https://principlesofchaos.org/)
 - [Failure Injection Testing](https://netflixtechblog.com/fit-failure-injection-testing-35d8e2a9bb2)
 - [Chaos Engineering, history, timeline](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/)
 
-## Tools
+### Tools
 
 - [Emulating wide area network delays](https://wiki.linuxfoundation.org/networking/netem#emulating_wide_area_network_delays)
 - [Tor is a great sysadmin tool](https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/)
