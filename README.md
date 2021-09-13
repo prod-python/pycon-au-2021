@@ -114,7 +114,7 @@ $ bash cleanup.sh
 - [Failure Injection Testing](https://netflixtechblog.com/fit-failure-injection-testing-35d8e2a9bb2)
 - [Chaos Engineering, history, timeline](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/)
 
-## Talks
+### Talks
 
 [Identifyingn Hidden Dependencies](https://www.usenix.org/conference/srecon20americas/presentation/fong-jones)
 
@@ -134,6 +134,6 @@ $ bash cleanup.sh
 - [Use Traffic Control to Simulate Network Chaos in Bare metal & Kubernetes](https://songrgg.github.io/operation/use-traffic-control-simulate-network-chaos/)
 - [Using Linux Traffic Control](https://netbeez.net/blog/how-to-use-the-linux-traffic-control/)
 
-## Community
+### Community
 
 - [Google group](https://groups.google.com/forum/#!forum/chaos-community)
