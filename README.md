@@ -106,6 +106,7 @@ $ bash cleanup.sh
 
 - [Release It!]() - Chapter 17, "Chaos Engineering"
 - [The Chaos Engineering Book](https://www.verica.io/blog/the-chaos-engineering-book/)
+- [Chaos Engineering](https://www.oreilly.com/library/view/chaos-engineering/9781492043850/) by Casey Rosenthal, Nora Jones
 
 ### Articles
 
@@ -113,9 +114,26 @@ $ bash cleanup.sh
 - [Failure Injection Testing](https://netflixtechblog.com/fit-failure-injection-testing-35d8e2a9bb2)
 - [Chaos Engineering, history, timeline](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/)
 
+## Talks
+
+[Identifyingn Hidden Dependencies](https://www.usenix.org/conference/srecon20americas/presentation/fong-jones)
+
+- Continuous verification
+- Test your recover procedures
+- Practice controlled experiments
+
+[Why SREs can't afford to NOT do Chaos Engineering](https://www.usenix.org/conference/srecon20americas/presentation/pawlikowski)
+
+
+[Cloudy with a chance of chaos](https://www.usenix.org/conference/srecon20americas/presentation/yakomin)
+
 ### Tools
 
 - [Emulating wide area network delays](https://wiki.linuxfoundation.org/networking/netem#emulating_wide_area_network_delays)
 - [Tor is a great sysadmin tool](https://www.jamieweb.net/blog/tor-is-a-great-sysadmin-tool/)
 - [Use Traffic Control to Simulate Network Chaos in Bare metal & Kubernetes](https://songrgg.github.io/operation/use-traffic-control-simulate-network-chaos/)
 - [Using Linux Traffic Control](https://netbeez.net/blog/how-to-use-the-linux-traffic-control/)
+
+## Community
+
+- [Google group](https://groups.google.com/forum/#!forum/chaos-community)
