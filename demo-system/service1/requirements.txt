@@ -1,7 +1,7 @@
 Flask==1.1.2
 python-json-logger==2.0.1
 gunicorn==20.0.4 
-requests==2.25.1
+requests==2.31.0
 opentelemetry-instrumentation-flask
 opentelemetry-instrumentation-requests
 opentelemetry-exporter-otlp
